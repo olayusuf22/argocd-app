@@ -20,6 +20,5 @@ delete the entire installation using this - kubectl delete -n argocd -f https://
 
 
 # deploy to argocd
-
 kubectl apply -f .\application.yaml
 
